@@ -3,6 +3,11 @@
 **Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
 
 **Buy From Gumroad** - https://saimusick.gumroad.com/l/huiwr
+
+**Addon HUD** - https://community.multitheftauto.com/index.php?p=resources&s=details&id=19041
+
+**Addon Login Panel (setup default balance and other data)** - [https://saimusick.gumroad.com/l/huiwr](https://community.multitheftauto.com/index.php?p=resources&s=details&id=19040)
+
 <img width="874" height="418" alt="bank" src="https://github.com/user-attachments/assets/f1dfd2c1-d277-467c-844a-50ff11d13bf2" />
 
 A complete money and banking system for MTA:SA Roleplay / RPG servers, including:
@@ -315,5 +320,6 @@ Adjust to fit your economy.
   - Walking out of the marker.
 
 ---
+
 
 
