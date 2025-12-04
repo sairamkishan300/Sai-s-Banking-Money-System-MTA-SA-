@@ -310,7 +310,3 @@ Adjust to fit your economy.
   - Walking out of the marker.
 
 ---
-
-## License / Usage
-
-You are free to sell or bundle this resource on your own terms. If you redistribute or modify it, consider leaving credit for the original author in `meta.xml` and this README.
