@@ -1,5 +1,9 @@
 # Sai’s Banking & Money System (MTA:SA)
 
+**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+
+**Buy From Gumroad** - https://saimusick.gumroad.com/l/huiwr
+
 A complete money and banking system for MTA:SA Roleplay / RPG servers, including:
 
 - **Persistent money system** (wallet + bank)
@@ -310,3 +314,4 @@ Adjust to fit your economy.
   - Walking out of the marker.
 
 ---
+
